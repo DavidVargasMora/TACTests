@@ -11,3 +11,6 @@ Each folder contains one notebook file (ends with .ipynb). Click on it and it wi
 
 GET IN TOUCH:
  If you have suggestions to make the notebooks better, or if you encounter problems, please get in touch with the NOAO Data Lab team: datalab@noao.edu
+ 
+ New:
+ If you want to test the notebooks you can: [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/DavidVargasMora/TACTests/master)
