@@ -6,3 +6,4 @@ dependencies:
   - astroml
   - ipywidgets
   - pandas
+  - ipympl
