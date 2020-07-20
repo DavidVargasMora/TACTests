@@ -3,9 +3,7 @@ channels:
 dependencies:
   - numpy
   - matplotlib
-  - jupyter-matplotlib #?
   - astroml
   - ipywidgets
   - pandas
   - ipympl
-  - nodejs=10.13.0
