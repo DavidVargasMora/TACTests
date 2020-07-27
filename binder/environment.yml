@@ -10,3 +10,6 @@ dependencies:
   - rebound
   - tqdm
   - gatspy
+  - batman
+  - pip:
+    - httpimport
