@@ -14,6 +14,8 @@ plt.rcParams.update({'font.size': 18,'figure.figsize': (10,8)})
 
 t = np.linspace(-1,1,100) ## time
 
+repoURL = 'https://raw.githubusercontent.com/DavidVargasMora/TACTests/master/'
+
 def initial_lightcurve(radius=0.1):
     params = batman.TransitParams()
     params.t0 = 0.                       #time of inferior conjunction
@@ -122,7 +124,7 @@ class spectral_lc:
 convertDict = {'H2O':'H$_2$O','CH4':'CH$_4$','CO2':'CO$_2$','Cloudy':'Cloudy'}
 
 def show_example_spectra(atmospheres=['H2O','CH4','CO2','No Atmosphere']):
-    dat = Table.read('opacity_breakdown_gto_f_hd189733b.fits')
+    dat = Table.read(repoURL+'09_Exoplanet_Spectra/opacity_breakdown_gto_f_hd189733b.fits')
     dat['No Atmosphere'] = 0.019
     
     if len(atmospheres) > 1:
@@ -157,11 +159,14 @@ lc_offset = 0.015
 class atmospheric_lc():
     def __init__(self,mysteryNum=1):
         
-        datName = 'mystery_lc_{}.fits'.format(mysteryNum)
-        if os.path.exists(datName):
-            HDUList = fits.open(datName)
-        else:
-            raise Exception("Mystery {} not found".format(mysterNum))
+        datName = repoURL+'09_Exoplanet_Spectra/mystery_lc_{}.fits'.format(mysteryNum)
+        HDUList = fits.open(datName)
+        
+        #Remove path validation as the file will be stored in github.
+        #if os.path.exists(datName):
+        #    HDUList = fits.open(datName)
+        #else:
+        #    raise Exception("Mystery {} not found".format(mysterNum))
         
         self.wavelengths = HDUList['WAVE'].data
         self.lcData = HDUList['FLUX'].data

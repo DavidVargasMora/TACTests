@@ -10,6 +10,8 @@ import numpy as np
 # Import the transit modeling package
 import batman
 
+repoURL = 'https://raw.githubusercontent.com/DavidVargasMora/TACTests/master/'
+
 def example_transit_plot(Time,time_1,flux_1):
     # Makes a new figure
     fig,ax = plt.subplots(2,1,figsize=(14,5))
@@ -100,7 +102,7 @@ def transit_model_2_plot(radius):
     flux_model = model.light_curve(params)            # Calculates light curve
 
     # Loading observed data
-    time_obs, flux_obs = np.loadtxt('https://github.com/DavidVargasMora/TACTests/raw/master/03_Search4HabitablePlanets/HD209458b.dat', unpack=True)
+    time_obs, flux_obs = np.loadtxt(repoURL+'03_Search4HabitablePlanets/HD209458b.dat', unpack=True)
     
     # Convert times to hours (easier to read)
     time = 24*(time-time[0])
