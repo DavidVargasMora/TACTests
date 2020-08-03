@@ -12,5 +12,6 @@ dependencies:
   - gatspy
   - batman
   - pip
+  - pillow
   - pip:
     - httpimport
