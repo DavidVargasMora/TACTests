@@ -11,5 +11,6 @@ dependencies:
   - tqdm
   - gatspy
   - batman
+  - pip
   - pip:
     - httpimport
