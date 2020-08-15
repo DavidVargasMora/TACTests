@@ -102,7 +102,7 @@ def transit_model_2_plot(radius):
     flux_model = model.light_curve(params)            # Calculates light curve
 
     # Loading observed data
-    time_obs, flux_obs = np.loadtxt(repoURL+'03_Search4HabitablePlanets/HD209458b.dat', unpack=True)
+    time_obs, flux_obs = np.loadtxt(repoURL+'03_Search4HabitablePlanets/Data/HD209458b.dat', unpack=True)
     
     # Convert times to hours (easier to read)
     time = 24*(time-time[0])
