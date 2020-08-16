@@ -1,0 +1,154 @@
+These data were taken from the�NASA Exoplanet Archive.									
+Name	Orbital Period (days)	Planet Mass (Jupiter masses)	Planet Mass (Earth masses)	Semi-major Axis (AU)	Eccentricity	Stellar Mass (Solar masses)	Discovery Method	Discovery Paper	
+51 Peg b	4.231	0.472	150	0.0527	0.013	1.12	Radial Velocity	Mayor & Queloz 1995	
+tau Boo b	3.312	4.320	1373	0.0490	0.011	1.34	Radial Velocity	Borsa et al. 2015	
+ups And b	4.617	0.688	219	0.0592	0.021	1.30	Radial Velocity	Butler et al. 1997	
+HD 187123 b	3.097	0.523	166	0.0426	0.010	1.00	Radial Velocity	Butler et al. 1998	
+HD 217107 b	7.127	1.300	413	0.0800	0.130	1.00	Radial Velocity	Fischer et al. 1999	
+HD 75289 b	3.509	0.490	156	0.0500	0.030	1.29	Radial Velocity	Udry et al. 2000	
+HD 46375 b	3.024	0.226	72	0.0398	0.063	0.92	Radial Velocity	Marcy et al. 2000	
+BD-10 3166 b	3.488	0.590	188	0.0400	0.020	1.47	Radial Velocity	Butler et al. 2000	
+HD 179949 b	3.093	0.916	291	0.0443	0.022	1.21	Radial Velocity	Tinney et al. 2001	
+HD 68988 b	6.277	1.970	626	0.0700	0.120	1.28	Radial Velocity	Vogt et al. 2002	
+HD 168746 b	6.404	0.270	86	0.0700	0.110	1.07	Radial Velocity	Pepe et al. 2002	
+HD 162020 b	8.428	9.840	3127	0.0800	0.280	0.42	Radial Velocity	Udry et al. 2002	
+HD 83443 b	2.986	0.340	108	0.0400	0.010	0.79	Radial Velocity	Butler et al. 2002	
+HD 76700 b	3.971	0.210	67	0.0500	0.090	0.99	Radial Velocity	Tinney et al. 2003	
+HD 88133 b	3.415	0.284	90	0.0479	0.031	1.26	Radial Velocity	Fischer et al. 2005	
+HD 118203 b	6.133	2.790	887	0.0700	0.310	1.84	Radial Velocity	da Silva et al. 2006	
+HD 149143 b	4.072	1.330	423	0.0530	0.017	1.20	Radial Velocity	da Silva et al. 2006	
+HIP 14810 b	6.674	3.900	1240	0.0696	0.144	1.01	Radial Velocity	Butler et al. 2006	
+HD 86081 b	2.138	1.480	470	0.0346	0.012	1.21	Radial Velocity	Johnson et al. 2006	
+HD 185269 b	6.838	1.010	321	0.0770	0.229	1.30	Radial Velocity	Johnson et al. 2006	
+HAT-P-2 b	5.634	8.620	2740	0.0681	0.517	1.33	Transit	Bakos et al. 2007	
+CoRoT-2 b	1.743	3.470	1103	0.0280	0.014	0.96	Transit	Alonso et al. 2008	
+WASP-5 b	1.628	1.580	502	0.0267	0.038	0.96	Transit	Anderson et al. 2008	
+HAT-P-9 b	3.923	0.749	238	0.0529	0.084	1.28	Transit	Shporer et al. 2009	
+CoRoT-5 b	4.038	0.467	148	0.0495	0.090	1.00	Transit	Rauer et al. 2009	
+WASP-19 b	0.789	1.069	340	0.0163	0.002	0.90	Transit	Hebb et al. 2010	
+CoRoT-6 b	8.887	2.960	941	0.0855	0.100	1.05	Transit	Fridlund et al. 2010	
+CoRoT-12 b	2.828	0.917	291	0.0402	0.070	1.08	Transit	Gillon et al. 2010	
+HAT-P-16 b	2.776	4.193	1333	0.0413	0.036	1.22	Transit	Buchhave et al. 2010	
+HD 102956 b	6.495	0.960	305	0.0807	0.037	1.66	Radial Velocity	Johnson et al. 2010	
+HAT-P-18 b	5.508	0.197	63	0.0559	0.084	0.77	Transit	Hartman et al. 2011	
+HAT-P-19 b	4.009	0.292	93	0.0466	0.067	0.84	Transit	Hartman et al. 2011	
+HAT-P-28 b	3.257	0.626	199	0.0434	0.051	1.02	Transit	Buchhave et al. 2011	
+KOI-13 b	1.764	9.280	2949	0.0364	0.001	1.72	Transit	Borucki et al. 2011	
+WASP-23 b	2.944	0.884	281	0.0376	0.062	0.78	Transit	Triaud et al. 2011	
+PSR J1719-1438 b	0.091	1.200	383	0.0044	0.060	1.40	Pulsar Timing	Bailes et al. 2011	
+CoRoT-18 b	1.900	3.470	1103	0.0295	0.080	0.95	Transit	Hebrard et al. 2011	
+HAT-P-32 b	2.150	0.680	216	0.0340	0.159	1.13	Transit	Hartman et al. 2011	
+Kepler-15 b	4.943	0.660	210	0.0571	0.060	1.02	Transit	Endl et al. 2011	
+Kepler-17 b	1.486	2.450	779	0.0259	0.011	1.16	Transit	Desert et al. 2011	
+HAT-P-20 b	2.875	7.246	2303	0.0361	0.015	0.76	Transit	Bakos et al. 2010	
+CoRoT-23 b	3.631	2.800	890	0.0480	0.160	1.14	Transit	Rouan et al. 2012	
+CoRoT-19 b	3.897	1.110	353	0.0518	0.047	1.21	Transit	Guenther et al. 2012	
+HAT-P-25 b	3.653	0.569	181	0.0466	0.023	1.01	Transit	Quinn et al. 2010	
+CoRoT-20 b	9.243	4.300	1367	0.0900	0.590	1.14	Transit	Deleuil et al. 2012	
+CoRoT-16 b	5.352	0.535	170	0.0618	0.330	1.10	Transit	Ollivier et al. 2012	
+Kepler-45 b	2.455	0.505	160	0.0300	0.110	0.59	Transit	Johnson et al. 2012	
+HAT-P-37 b	2.797	1.169	372	0.0379	0.058	0.93	Transit	Bakos et al. 2012	
+Pr0211 b	2.146	1.880	598	0.0318	0.011	0.94	Radial Velocity	Quinn et al. 2012	
+HAT-P-38 b	4.640	0.267	85	0.0523	0.067	0.89	Transit	Sato et al. 2012	
+KELT-1 b	1.218	27.230	8654	0.0247	0.010	1.32	Transit	Siverd et al. 2012	
+WTS-1 b	3.352	4.010	1274	0.0470	0.100	1.20	Transit	Cappetta et al. 2012	
+WASP-59 b	7.920	0.863	274	0.0697	0.100	0.72	Transit	Hebrard et al. 2013	
+HATS-1 b	3.446	1.855	590	0.0444	0.120	0.99	Transit	Penev et al. 2013	
+HD 103774 b	5.888	0.367	116	0.0700	0.090	1.33	Radial Velocity	Lo Curto et al. 2013	
+WASP-80 b	3.068	0.538	171	0.0344	0.002	0.58	Transit	Triaud et al. 2013	
+Kepler-75 b	8.885	10.100	3210	0.0818	0.570	0.91	Transit	Hebrard et al. 2013	
+Kepler-63 b	9.434	0.378	120	0.0800	0.450	0.98	Transit	Sanchis-Ojeda et al. 2013	
+CoRoT-27 b	3.575	10.390	3302	0.0476	0.065	1.05	Transit	Parviainen et al. 2014	
+Kepler-101 b	3.488	0.160	51	0.0474	0.086	1.17	Transit	Rowe et al. 2014	
+HIP 91258 b	5.051	1.090	346	0.0600	0.020	0.97	Radial Velocity	Moutou et al. 2014	
+HD 285507 b	6.088	0.980	311	0.0600	0.090	0.82	Radial Velocity	Quinn et al. 2014	
+HATS-5 b	4.763	0.237	75	0.0542	0.019	0.94	Transit	Zhou et al. 2014	
+HAT-P-46 b	4.463	0.493	157	0.0577	0.123	1.28	Transit	Hartman et al. 2014	
+HAT-P-44 b	4.301	0.352	112	0.0507	0.044	0.94	Transit	Hartman et al. 2014	
+HAT-P-45 b	3.129	0.892	283	0.0452	0.049	1.26	Transit	Hartman et al. 2014	
+HATS-4 b	2.517	1.323	420	0.0362	0.013	1.00	Transit	Jordan et al. 2014	
+Kepler-423 b	2.684	0.595	189	0.0358	0.019	0.85	Transit	Endl et al. 2014	
+Kepler-428 b	3.526	1.270	404	0.0433	0.220	0.87	Transit	Hébrard et al. 2014	
+Kepler-426 b	3.218	0.340	108	0.0414	0.180	0.91	Transit	Hébrard et al. 2014	
+Kepler-425 b	3.797	0.250	79	0.0464	0.330	0.93	Transit	Hébrard et al. 2014	
+Kepler-44 b	3.247	1.000	318	0.0446	0.066	1.12	Transit	Bonomo et al. 2011	
+Kepler-435 b	8.600	0.840	267	0.0948	0.114	1.54	Transit	Almenara et al. 2015	
+Kepler-433 b	5.334	2.820	896	0.0679	0.119	1.46	Transit	Almenara et al. 2015	
+HAT-P-54 b	3.800	0.760	242	0.0412	0.074	0.65	Transit	Bakos et al. 2015	
+HD 103720 b	4.556	0.620	197	0.0498	0.086	0.79	Radial Velocity	Moutou et al. 2015	
+Kepler-447 b	7.794	1.370	435	0.0769	0.123	1.00	Transit	Lillo-Box et al. 2015	
+HAT-P-55 b	3.585	0.582	185	0.0460	0.139	1.01	Transit	Juncher et al. 2015	
+CoRoT-29 b	2.851	0.850	270	0.0386	0.082	0.97	Transit	Cabrera et al. 2015	
+CoRoT-28 b	5.209	0.484	154	0.0603	0.047	1.01	Transit	Cabrera et al. 2015	
+WASP-89 b	3.356	5.900	1875	0.0427	0.193	0.92	Transit	Hellier et al. 2015	
+HATS-10 b	3.313	0.526	167	0.0449	0.501	1.10	Transit	Brahm et al. 2015	
+HATS-13 b	3.044	0.543	173	0.0406	0.181	0.96	Transit	Mancini et al. 2015	
+HATS-14 b	2.767	1.071	340	0.0382	0.142	0.97	Transit	Mancini et al. 2015	
+HATS-8 b	3.584	0.138	44	0.0467	0.376	1.06	Transit	Bayliss et al. 2015	
+HAT-P-53 b	1.962	1.484	472	0.0316	0.134	1.09	Transit	Hartman et al. 2015	
+HAT-P-52 b	2.754	0.818	260	0.0369	0.047	0.89	Transit	Hartman et al. 2015	
+HAT-P-50 b	3.122	1.350	429	0.0453	0.115	1.27	Transit	Hartman et al. 2015	
+HAT-P-51 b	4.218	0.309	98	0.0507	0.123	0.98	Transit	Hartman et al. 2015	
+WASP-120 b	3.611	4.850	1541	0.0514	0.057	1.39	Transit	Turner et al. 2016	
+HATS-15 b	1.747	2.170	690	0.0271	0.126	0.87	Transit	Ciceri et al. 2016	
+HATS-34 b	2.106	0.941	299	0.0317	0.108	0.95	Transit	de Val-Borro et al. 2016	
+HATS-35 b	1.821	1.222	388	0.0320	0.306	1.32	Transit	de Val-Borro et al. 2016	
+HATS-31 b	3.378	0.880	280	0.0478	0.233	1.27	Transit	de Val-Borro et al. 2016	
+HATS-32 b	2.813	0.920	292	0.0402	0.471	1.10	Transit	de Val-Borro et al. 2016	
+HATS-33 b	2.550	1.192	379	0.0373	0.080	1.06	Transit	de Val-Borro et al. 2016	
+WASP-53 b	3.310	2.132	678	0.0410	0.030	0.84	Transit	Triaud et al. 2017	
+WASP-81 b	2.716	0.729	232	0.0391	0.066	1.08	Transit	Triaud et al. 2017	
+HD 2685 b	4.127	1.170	372	0.0568	0.091	1.43	Transit	Jones et al. 2019	
+HD 143105 b	2.197	1.210	385	0.0379	0.070	1.51	Radial Velocity	Hébrard et al. 2016	
+WASP-119 b	2.500	1.230	391	0.0363	0.058	1.02	Transit	Maxted et al. 2016	
+WASP-124 b	3.373	0.600	191	0.0449	0.017	1.07	Transit	Maxted et al. 2016	
+WASP-126 b	3.289	0.280	89	0.0449	0.180	1.12	Transit	Maxted et al. 2016	
+WASP-129 b	5.748	1.000	318	0.0628	0.096	1.00	Transit	Maxted et al. 2016	
+WASP-133 b	2.176	1.160	369	0.0345	0.170	1.16	Transit	Maxted et al. 2016	
+K2-29 b	3.259	0.730	232	0.0422	0.066	0.94	Transit	Santerne et al. 2016	
+HATS-25 b	4.299	0.613	195	0.0516	0.176	0.99	Transit	Espinoza et al. 2016	
+HATS-26 b	3.302	0.650	207	0.0474	0.245	1.30	Transit	Espinoza et al. 2016	
+HATS-27 b	4.637	0.530	168	0.0611	0.581	1.42	Transit	Espinoza et al. 2016	
+HATS-28 b	3.181	0.672	214	0.0413	0.202	0.93	Transit	Espinoza et al. 2016	
+HATS-29 b	4.606	0.653	208	0.0548	0.158	1.03	Transit	Espinoza et al. 2016	
+HATS-30 b	3.174	0.706	224	0.0435	0.096	1.09	Transit	Espinoza et al. 2016	
+PSR J2322-2650 b	0.323	0.795	253	0.0102	0.002	1.40	Pulsar Timing	Spiewak et al. 2018	
+HATS-43 b	4.389	0.261	83	0.0494	0.173	0.84	Transit	Brahm et al. 2018	
+HATS-44 b	2.744	0.560	178	0.0365	0.279	0.86	Transit	Brahm et al. 2018	
+HATS-45 b	4.188	0.700	222	0.0551	0.240	1.27	Transit	Brahm et al. 2018	
+HATS-46 b	4.742	0.173	55	0.0537	0.559	0.92	Transit	Brahm et al. 2018	
+HATS-7 b	3.185	0.120	38	0.0401	0.170	0.85	Transit	Bakos et al. 2015	
+WASP-162 b	9.625	5.200	1653	0.0871	0.434	0.95	Transit	Hellier et al. 2018	
+HD 202772 A b	3.309	1.017	323	0.0521	0.038	1.72	Transit	Wang et al. 2019	
+TOI 172 b	9.477	5.420	1723	0.0914	0.381	1.13	Transit	Rodriguez et al. 2019	
+HATS-60 b	3.561	0.662	210	0.0471	0.191	1.10	Transit	Hartman et al. 2018	
+HATS-61 b	7.818	3.400	1081	0.0791	0.092	1.08	Transit	Hartman et al. 2018	
+HATS-62 b	3.277	0.179	57	0.0416	0.298	0.90	Transit	Hartman et al. 2018	
+HATS-63 b	3.057	0.960	305	0.0403	0.136	0.93	Transit	Hartman et al. 2018	
+HATS-64 b	4.909	0.960	305	0.0656	0.151	1.56	Transit	Hartman et al. 2018	
+HATS-65 b	3.105	0.821	261	0.0450	0.062	1.26	Transit	Hartman et al. 2018	
+HATS-66 b	3.141	5.330	1694	0.0471	0.064	1.41	Transit	Hartman et al. 2018	
+HATS-67 b	1.609	1.450	461	0.0303	0.057	1.44	Transit	Hartman et al. 2018	
+HATS-68 b	3.586	1.290	410	0.0507	0.036	1.35	Transit	Hartman et al. 2018	
+HATS-69 b	2.225	0.577	183	0.0321	0.519	0.89	Transit	Hartman et al. 2018	
+HATS-70 b	1.888	12.900	4100	0.0363	0.180	1.78	Transit	Zhou et al. 2019	
+Kepler-1658 b	3.849	5.880	1869	0.0544	0.063	1.45	Transit	Chontos et al. 2019	
+HATS-59 b	5.416	0.806	256	0.0611	0.129	1.04	Transit	Sarkis et al. 2018	
+HATS-50 b	3.830	0.390	124	0.0505	0.516	1.17	Transit	Henning et al. 2018	
+HATS-51 b	3.349	0.768	244	0.0464	0.330	1.19	Transit	Henning et al. 2018	
+HATS-52 b	1.367	2.240	712	0.0250	0.246	1.11	Transit	Henning et al. 2018	
+HATS-53 b	3.854	0.595	189	0.0475	0.330	0.96	Transit	Henning et al. 2018	
+WASP-114 b	1.549	1.769	562	0.0285	0.012	1.29	Transit	Barros et al. 2016	
+HAT-P-65 b	2.605	0.527	167	0.0395	0.304	1.21	Transit	Hartman et al. 2016	
+HAT-P-66 b	2.972	0.783	249	0.0436	0.090	1.25	Transit	Hartman et al. 2016	
+WASP-140 b	2.236	2.440	776	0.0323	0.047	0.90	Transit	Hellier et al. 2017	
+HATS-22 b	4.723	2.740	871	0.0503	0.079	0.76	Transit	Bento et al. 2017	
+HATS-23 b	2.161	1.470	467	0.0340	0.114	1.12	Transit	Bento et al. 2017	
+WASP-151 b	4.533	0.310	99	0.0550	0.003	1.08	Transit	Demangeon et al. 2017	
+WASP-153 b	3.333	0.390	124	0.0480	0.009	1.34	Transit	Demangeon et al. 2017	
+WASP-156 b	3.836	0.128	41	0.0453	0.007	0.84	Transit	Demangeon et al. 2017	
+NGTS-1 b	2.647	0.812	258	0.0326	0.016	0.62	Transit	Bayliss et al. 2017	
+HATS-39 b	4.578	0.630	200	0.0601	0.275	1.38	Transit	Bento et al. 2018	
+HATS-40 b	3.264	1.590	505	0.0500	0.312	1.56	Transit	Bento et al. 2018	
+HATS-41 b	4.194	9.700	3083	0.0583	0.380	1.50	Transit	Bento et al. 2018	
+HATS-42 b	2.292	1.880	598	0.0369	0.229	1.27	Transit	Bento et al. 2018	
