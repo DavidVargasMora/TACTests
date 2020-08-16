@@ -124,7 +124,7 @@ class spectral_lc:
 convertDict = {'H2O':'H$_2$O','CH4':'CH$_4$','CO2':'CO$_2$','Cloudy':'Cloudy'}
 
 def show_example_spectra(atmospheres=['H2O','CH4','CO2','No Atmosphere']):
-    dat = Table.read(repoURL+'09_Exoplanet_Spectra/opacity_breakdown_gto_f_hd189733b.fits')
+    dat = Table.read(repoURL+'09_Exoplanet_Spectra/Data/opacity_breakdown_gto_f_hd189733b.fits')
     dat['No Atmosphere'] = 0.019
     
     if len(atmospheres) > 1:
@@ -159,7 +159,7 @@ lc_offset = 0.015
 class atmospheric_lc():
     def __init__(self,mysteryNum=1):
         
-        datName = repoURL+'09_Exoplanet_Spectra/mystery_lc_{}.fits'.format(mysteryNum)
+        datName = repoURL+'09_Exoplanet_Spectra/Data/mystery_lc_{}.fits'.format(mysteryNum)
         HDUList = fits.open(datName)
         
         #Remove path validation as the file will be stored in github.
