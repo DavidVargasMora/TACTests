@@ -13,5 +13,6 @@ dependencies:
   - batman
   - pip
   - pillow
+  - bokeh
   - pip:
     - httpimport
