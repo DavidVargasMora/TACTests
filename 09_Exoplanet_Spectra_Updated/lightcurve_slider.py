@@ -27,9 +27,9 @@ from IPython.core.display import display, HTML
 #display(HTML("<style>.container { width:100% !important; }</style>"))
 
 def initial_imports():
-
+	
 	#Next, we download the files needed for the activity.
-	url = repoURL + '09_Exoplanet_Spectra_Updated'
+	url = 'https://raw.githubusercontent.com/DavidVargasMora/TACTests/master/09_Exoplanet_Spectra_Updated'
 
 	r = requests.get(url +'/lc_functions.js', allow_redirects=True, stream=True)
 	open('lc_functions.js', 'wb').write(r.content)
