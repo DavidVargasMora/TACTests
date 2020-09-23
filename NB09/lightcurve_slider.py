@@ -1,3 +1,4 @@
+import requests
 import numpy as np
 import sys
 from bokeh.layouts import row, column
@@ -24,6 +25,35 @@ axes_font_size = "14pt"
 output_notebook()
 from IPython.core.display import display, HTML
 #display(HTML("<style>.container { width:100% !important; }</style>"))
+
+def initial_imports():
+
+	#Next, we download the files needed for the activity.
+
+	r = requests.get(repoURL+'NB09/lc_functions.js', allow_redirects=True, stream=True)
+	open('lc_functions.js', 'wb').write(r.content)
+
+	r = requests.get(repoURL+'NB09/scattering_functions.js', allow_redirects=True, stream=True)
+	open('scattering_functions.js', 'wb').write(r.content)
+
+	r = requests.get(repoURL+'NB09/transmission_spec_functions.js', allow_redirects=True, stream=True)
+	open('transmission_spec_functions.js', 'wb').write(r.content)
+
+	r = requests.get(repoURL+'NB09/data/mystery_lc_1.fits', allow_redirects=True, stream=True)
+	open('mystery_lc_1.fits', 'wb').write(r.content)
+
+	r = requests.get(repoURL+'NB09/data/mystery_lc_2.fits', allow_redirects=True, stream=True)
+	open('mystery_lc_2.fits', 'wb').write(r.content)
+
+	r = requests.get(repoURL+'NB09/data/mystery_lc_3.fits', allow_redirects=True, stream=True)
+	open('mystery_lc_3.fits', 'wb').write(r.content)
+
+	r = requests.get(repoURL+'NB09/data/mystery_lc_4.fits', allow_redirects=True, stream=True)
+	open('mystery_lc_4.fits', 'wb').write(r.content)
+
+	r = requests.get(repoURL+'NB09/data/opacity_breakdown_gto_f_hd189733b.fits', allow_redirects=True, stream=True)
+	open('opacity_breakdown_gto_f_hd189733b.fits', 'wb').write(r.content)
+
 
 def limb_dark(z,r,u=0.2):
     """ Simple limb darkening law
@@ -431,7 +461,7 @@ def example_spectra(atmospheres=['H2O','CH4','CO2','No Atmosphere'],savePlot=Fal
 
     ## dat = Table.read('data/opacity_breakdown_gto_f_hd189733b.fits')
     ## Changed the route to facilitate working with Colab.
-    
+
     dat = Table.read('opacity_breakdown_gto_f_hd189733b.fits')
     dat['No Atmosphere'] = 0.0179
     
