@@ -54,6 +54,8 @@ def initial_imports():
 	r = requests.get(repoURL+'NB09/data/opacity_breakdown_gto_f_hd189733b.fits', allow_redirects=True, stream=True)
 	open('opacity_breakdown_gto_f_hd189733b.fits', 'wb').write(r.content)
 
+	return "All files downloaded successfully."
+
 
 def limb_dark(z,r,u=0.2):
     """ Simple limb darkening law
