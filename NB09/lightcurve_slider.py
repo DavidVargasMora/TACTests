@@ -428,7 +428,10 @@ def transmission_spec_slider(mysteryNum=1,savePlot=False):
 convertDict = {'H2O':'Water Vapor','CH4':'Methane','CO2':'Carbon Dioxide','Cloudy':'Cloudy'}
 
 def example_spectra(atmospheres=['H2O','CH4','CO2','No Atmosphere'],savePlot=False):
+
     ## dat = Table.read('data/opacity_breakdown_gto_f_hd189733b.fits')
+    ## Changed the route to facilitate working with Colab.
+    
     dat = Table.read('opacity_breakdown_gto_f_hd189733b.fits')
     dat['No Atmosphere'] = 0.0179
     
