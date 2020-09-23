@@ -23,7 +23,7 @@ axes_font_size = "14pt"
 
 output_notebook()
 from IPython.core.display import display, HTML
-display(HTML("<style>.container { width:100% !important; }</style>"))
+#display(HTML("<style>.container { width:100% !important; }</style>"))
 
 def limb_dark(z,r,u=0.2):
     """ Simple limb darkening law
@@ -334,7 +334,8 @@ def transmission_spec_slider(mysteryNum=1,savePlot=False):
     Sliders for the transmission spectrum and their lightcurves
     """
     
-    datName = 'data/mystery_lc_{}.fits'.format(mysteryNum)
+    #datName = 'data/mystery_lc_{}.fits'.format(mysteryNum)
+    datName = 'mystery_lc_{}.fits'.format(mysteryNum)
     if os.path.exists(datName):
         HDUList = fits.open(datName)
     else:
@@ -427,7 +428,8 @@ def transmission_spec_slider(mysteryNum=1,savePlot=False):
 convertDict = {'H2O':'Water Vapor','CH4':'Methane','CO2':'Carbon Dioxide','Cloudy':'Cloudy'}
 
 def example_spectra(atmospheres=['H2O','CH4','CO2','No Atmosphere'],savePlot=False):
-    dat = Table.read('data/opacity_breakdown_gto_f_hd189733b.fits')
+    #dat = Table.read('data/opacity_breakdown_gto_f_hd189733b.fits')
+    dat = Table.read('opacity_breakdown_gto_f_hd189733b.fits')
     dat['No Atmosphere'] = 0.0179
     
     plotList = []
